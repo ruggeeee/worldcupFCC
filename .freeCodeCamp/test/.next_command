@@ -69,3 +69,6 @@ chmod +x insert_data.sh
 ./queries.sh
 ./queries.sh
 echo "# worldcupFCC" >> README.md
+git remote add origin https://github.com/ruggeeee/worldcupFCC.git
+git push -u origin main
+git init
